@@ -15,11 +15,9 @@
 ## Process
 
 - Scraped the number of animal species threatened/endangered dating back all the way to 1967 to the current year.
-- Stored it into BigQuery, then Exported this structured data into a CSV file
-- creates a stopword list for wordcloud
-- With CSV file, Created a Tableau dashboard for data visualization.
+- Stored it into BigQuery, structured it using SQL and then Exported this structured data into a CSV file
+- With this CSV file, Created a Tableau dashboard for data visualization.
+- Working on predicting how many more species will be added to this list for the next 10 years using scikit-learn
 
-![Species close to extinction.pdf](https://github.com/marcusdjr/species_extinction/files/9600453/Species.close.to.extinction.pdf)
-
-
+!![image](https://user-images.githubusercontent.com/31329300/191061672-6e9a8d9d-d6a7-4747-94b5-a0d6daf52caf.png)
 
