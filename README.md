@@ -6,11 +6,12 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
->Protecting our animals is crucial for our world's environmental success, We all need to be aware of the number of animal species becoming threatened/endangered each year so that we can contribute to making a change. I have created a dashboard using tableau that visually shows each year how many species are have been added to the endangered/threatened list since 1967 all the way up to 2022.
+>Protecting our animals is crucial for our world's environmental success, its important that we all become aware of the number of animal species becoming threatened/endangered each year so that we can contribute to making a change. I have created a dashboard using tableau that visually shows each year how many species have been added to the endangered/threatened list since 1967 all the way up to 2022.
 
 - SQL
 - Tableau
 - Google Cloud
+- Scikit-Learn
 
 ## Process
 
