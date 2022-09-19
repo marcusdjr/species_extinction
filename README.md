@@ -19,7 +19,7 @@
 - creates a stopword list for wordcloud
 - With CSV file, Created a Tableau dashboard for data visualization.
 
-![Alt Text](https://github.com/marcusdjr/species_extinction/files/9600453/Species.close.to.extinction.pdf)
+![Species close to extinction.pdf](https://github.com/marcusdjr/species_extinction/files/9600453/Species.close.to.extinction.pdf)
 
 
 
